@@ -2,7 +2,7 @@
 
 > *Every text encodes others. Press the pearl to turn one.*
 
-A BYOK (bring-your-own-key) casting interface for the nine-operator system of recursive textual transformation specified in **EA-MANDALA-KERNEL-01** (DOI [10.5281/zenodo.19288404](https://doi.org/10.5281/zenodo.19288404)).
+A BYOK (bring-your-own-key) casting interface for the nine-operator system of recursive textual transformation specified in **EA-MANDALA-KERNEL-01** (DOI [10.5281/zenodo.19288404](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19288404)).
 
 This repository is now a deployable Vite + React + Tailwind project. The app calls the Anthropic API directly from the browser using the user's own key. No backend, no proxy, no telemetry.
 
@@ -124,8 +124,8 @@ Cost: a typical seven-turn casting runs about 7 API calls of up to 4000 max_toke
 
 ## Source documents
 
-- **EA-MANDALA-KERNEL-01** — Operator Kernel Specification v1.0 ([DOI 10.5281/zenodo.19288404](https://doi.org/10.5281/zenodo.19288404))
-- **The Crimson Hexagonal Archive** — `crimsonhexagonal` community on Zenodo (terminated 2026-06-19) and its sovereign successor at [alexanarch.org](https://alexanarch.org)
+- **EA-MANDALA-KERNEL-01** — Operator Kernel Specification v1.0 ([DOI 10.5281/zenodo.19288404](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19288404))
+- **The Crimson Hexagonal Archive** — `crimsonhexagonal` community on Zenodo (terminated 2026-06-19) and its sovereign successor at [alexanarch.org](https://www.alexanarch.org/)
 - Reference casts: Rev 1:12-18, Matt 25:31-40, and Viola's mother's dream (held in archive, not yet public)
 
 ---
