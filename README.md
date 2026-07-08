@@ -124,7 +124,7 @@ Cost: a typical seven-turn casting runs about 7 API calls of up to 4000 max_toke
 
 ## Source documents
 
-- **EA-MANDALA-KERNEL-01** — Operator Kernel Specification v1.0 ([DOI 10.5281/zenodo.19288404](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19288404))
+- **EA-MANDALA-KERNEL-01** — Operator Kernel Specification v1.0 ([DOI 10.5281/zenodo.19288403](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19288403))
 - **The Crimson Hexagonal Archive** — `crimsonhexagonal` community on Zenodo (terminated 2026-06-19) and its sovereign successor at [alexanarch.org](https://www.alexanarch.org/)
 - Reference casts: Rev 1:12-18, Matt 25:31-40, and Viola's mother's dream (held in archive, not yet public)
 
